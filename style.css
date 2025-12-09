@@ -235,7 +235,7 @@ span{
         content: "Web Designer";
     }
     61%, 100%{
-        content: "student 1ere année developpement digital";
+        content: "student 2eme année web en developpement digital";
     }
     
 }
@@ -1474,4 +1474,5 @@ textarea::placeholder {
 /* Animation spécifique pour le 4ème projet */
 .projects-box:nth-child(4) { 
     animation-delay: 0.5s;
+
 }
