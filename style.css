@@ -235,7 +235,7 @@ span{
         content: "Web Designer";
     }
     61%, 100%{
-        content: "student 2eme année web en developpement digital";
+        content: "student 2eme année developpement digital";
     }
     
 }
@@ -1476,3 +1476,4 @@ textarea::placeholder {
     animation-delay: 0.5s;
 
 }
+
